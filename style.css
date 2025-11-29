@@ -1,0 +1,9 @@
+h2 {
+    font-weight: 700;
+    color: #0d6efd; /* Le bleu primaire de Bootstrap */
+}
+
+.card img {
+    height: 180px;
+    object-fit: cover; /* Assure que l'image couvre bien la zone sans être déformée */
+}
